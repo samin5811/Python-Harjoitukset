@@ -2,11 +2,8 @@
 
 ** Sami Malmsten **
 
-## Moduuli 1
+## Moduuli 1 ja 2
 
 Tein tehtävät 1 ja 2.
-
-## Moduuli 2
-
 
 ## Moduuli 3
